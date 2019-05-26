@@ -34,7 +34,7 @@ end
     case op
     when "add"
     "#{n1 + n2}"
-    when "subtract"
+    when "subtract" 
       "#{n1 - n2}"
       when "multiply"
         "#{n1 * n2}"
